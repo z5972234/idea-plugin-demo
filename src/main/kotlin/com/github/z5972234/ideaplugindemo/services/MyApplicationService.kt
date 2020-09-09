@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.z5972234.ideaplugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.z5972234.ideaplugindemo.MyBundle
 
 class MyApplicationService {
 
